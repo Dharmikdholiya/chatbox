@@ -50,6 +50,4 @@ class MyString{
   static const String call = "slide to answer";
   static const String callHeader = "Resent";
   static const String contactHeader = "My Contact";
-
-
 }
